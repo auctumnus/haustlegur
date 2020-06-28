@@ -25,3 +25,8 @@ The assets included are either original (licensed to auctumnus / syysilma under 
 
 assets/plant/plant01.wav, assets/plant/plant02.wav, assets/plant/plant03.wav:
 Created by user dheming on freesound, Dirt_Slide_01.wav, https://freesound.org/people/dheming/sounds/240978/, under the CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Audio was cut into different files, as well as layering other audio over it.
+
+assets/player/player.png
+Created by user Sharm on opengameart, Tiny 16: Basic, https://opengameart.org/content/tiny-16-basic, under the 
+CC-BY-3.0 (http://creativecommons.org/licenses/by/3.0/). Modifications to palette as well as cropping the image 
+made.
