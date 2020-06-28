@@ -7,7 +7,12 @@ open it in godot and export it or use the html5 export in your favorite web serv
 
 ## gameplay
 arrow keys for movement
+
 x to dig farmland
+
 z to plant a carrot in farmland
+
 c to dig up the carrot
+
 n to spawn a butterfly
+
